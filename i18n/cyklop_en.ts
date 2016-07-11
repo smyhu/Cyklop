@@ -12,7 +12,7 @@
         <location filename="../qml/cyklop/maemo/AboutPage.qml" line="48"/>
         <location filename="../qml/cyklop/meego/AboutPage.qml" line="68"/>
         <location filename="../qml/cyklop/symbian/AboutPage.qml" line="69"/>
-        <source>A bicycle sharing application. It allows you to find free bikes or stations near you. It currently supports every system handled by &lt;em&gt;Nextbike&lt;/em&gt; including more than 80 cities from Germany, Austria, Latvia, Poland, Switzerland, Turkey, Azerbaijan, Cyprus, the United Arabian Emirates and New Zealand.</source>
+        <source>A bicycle sharing application. It allows you to find free bikes or stations near you. It currently supports every system handled by &lt;em&gt;Nextbike&lt;/em&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

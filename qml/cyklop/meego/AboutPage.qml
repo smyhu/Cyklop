@@ -67,10 +67,7 @@ Page {
             Label {
                 text: qsTr("A bicycle sharing application. "
                           +"It allows you to find free bikes or stations near you. "
-                          +"It currently supports every system handled by <em>Nextbike</em> "
-                          +"including more than 80 cities from "
-                          +"Germany, Austria, Latvia, Poland, Switzerland, Turkey, "
-                          +"Azerbaijan, Cyprus, the United Arabian Emirates and New Zealand.")
+                          +"It currently supports every system handled by <em>Nextbike</em> ")
                 color: Config.FGCOLOR_BANER
                 anchors.horizontalCenter: parent.horizontalCenter
                 wrapMode: Text.Wrap

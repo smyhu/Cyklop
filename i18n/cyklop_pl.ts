@@ -12,8 +12,8 @@
         <location filename="../qml/cyklop/maemo/AboutPage.qml" line="48"/>
         <location filename="../qml/cyklop/meego/AboutPage.qml" line="68"/>
         <location filename="../qml/cyklop/symbian/AboutPage.qml" line="69"/>
-        <source>A bicycle sharing application. It allows you to find free bikes or stations near you. It currently supports every system handled by &lt;em&gt;Nextbike&lt;/em&gt; including more than 80 cities from Germany, Austria, Latvia, Poland, Switzerland, Turkey, Azerbaijan, Cyprus, the United Arabian Emirates and New Zealand.</source>
-        <translation>Aplikacja do obsługi systemu rowerów publicznych. Pozwala na znalezienie wolnych rowerów lub stacji. Obecnie działa we wszystkich systemach obsługiwanych przez firmę &lt;em&gt;Nextbike&lt;/em&gt;, czyli w ponad 80 miastach z Niemiec, Austrii, Łotwy, Polski, Szwajcarii, Turcji, Azerbejdżanu, Cypru, Zjednoczonych Emiratów Arabskich i Nowej Zelandii. W przypadku Polski, aplikacja współpracuje z warszawskim systemem Veturilo, BemowoBike, Wrocławskim Rowerem Miejskim (WRM), OpoleBike oraz z Poznańskim Rowerem Miejskim (PRM).</translation>
+        <source>A bicycle sharing application. It allows you to find free bikes or stations near you. It currently supports every system handled by &lt;em&gt;Nextbike&lt;/em&gt;.</source>
+        <translation>Aplikacja do obsługi systemu rowerów publicznych. Pozwala na znalezienie wolnych rowerów lub stacji. Obecnie działa we wszystkich systemach obsługiwanych przez firmę &lt;em&gt;Nextbike&lt;/em&gt;.</translation>
     </message>
     <message>
         <location filename="../qml/cyklop/meego/AboutPage.qml" line="63"/>

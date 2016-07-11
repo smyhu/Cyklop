@@ -9,12 +9,12 @@ var VERSION = "0.2.1"; //version
 
 // UI
 var MARGIN = 20;
-var BGCOLOR_BANER = "#498800";
-var BGCOLOR = "#f0f1f2";
-var BGCOLOR_DARK = "#e4e5e6";
-var BGCOLOR2 = "#50ace5";
+var BGCOLOR_BANER = "#000000";
+var BGCOLOR = "#999999";
+var BGCOLOR_DARK = "#666666";
+var BGCOLOR2 = "#333333";
 var FGCOLOR = "#000000";
-var FGCOLOR_BANER = "#ffffff";
+var FGCOLOR_BANER = "#cccccc";
 var GREEN = "#dd498800";
 var YELLOW = "#dde69600";
 var RED = "#ddff2a2a";
